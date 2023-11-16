@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    •	who can take part in the workshops <pattern></pattern>
+    <template></template>
+</category>
+
+
+
+<category>
+	<pattern>•	WHAT IS THE TARGET AUDIENCE?</pattern>
+	<template>Our sessions are aimed at elderly people who live in a rural area with difficulties to access training centers and people who do not find help in their family to use their computer.</template>
+</category>
+
+</aiml>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>•	WHAT IS THE TARGET AUDIENCE?</pattern>
+	<template>Our sessions are aimed at elderly people who live in a rural area with difficulties to access training centers and people who do not find help in their family to use their computer.</template>
+</category>
+
+<category>
+	<pattern>•	WHAT IS THE TARGET AUDIENCE?</pattern>
+	<template>Our sessions are aimed at elderly people who live in a rural area</template>
+</category>
+
+<category>
+	<pattern>•	WHAT IS THE TARGET AUDIENCE?</pattern>
+	<template>older.</template>
+</category>
+
+</aiml>
